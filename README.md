@@ -42,7 +42,7 @@ Typescript, Javascript advanced, and more Vue 3.
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Rainerio Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rainerio&show_icons=true&hide_border=true" />
+  <img align="left" alt="Rainerio Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rainerio19&show_icons=true&hide_border=true" />
 
 </details>
 
