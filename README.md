@@ -13,9 +13,11 @@ I invite you to take a brief look at my projects. <br/> <br/>
 Typescript, Javascript advanced, and more Vue 3.
 
 ### 📫 How to reach me:
-That is my  [Linkedin](https://www.linkedin.com/in/rainerio-filho/).
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/rainerio-filho/).
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com/raineriof/).
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/raineriof/
+[linkedin]: https://www.linkedin.com/in/rainerio-filho/
 <!--
 **rainerio19/rainerio19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
