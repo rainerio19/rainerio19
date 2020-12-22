@@ -60,6 +60,12 @@ Typescript, Javascript advanced, and more Vue 3.
 
 </details>
 
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/rainerio19/rainerio19" alt="Visitors badge" />
+   </a>
+</p>
+
 [instagram]: https://www.instagram.com/raineriof/
 [linkedin]: https://www.linkedin.com/in/rainerio-filho/
 <!--
