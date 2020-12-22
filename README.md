@@ -1,5 +1,5 @@
 ### Hi there, I'm Rainerio 👋
-I'm a Brazilian developer
+I'm a Brazilian developer <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
 and graduate student in information technology.
 
 ### ⚡ My focus:
@@ -13,10 +13,10 @@ I invite you to take a brief look at my projects. <br/> <br/>
 Typescript, Javascript advanced, and more Vue 3.
 
 ### 📫 How to reach me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<a href="https://www.linkedin.com/in/rainerio-filho/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+<br/>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
