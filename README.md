@@ -53,12 +53,12 @@ Typescript, Javascript advanced, and more Vue 3.
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 ---
 
-<details>
+<div>
   <summary>:zap: Github Stats</summary>
+  <img height="160em" alt="Rainerio Github Stats" src="https://github-readme-stats.vercel.app/api?username=rainerio19&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainerio19&layout=compact&langs_count=16&theme=gotham"/>
+</div>
 
-  <img align="left" alt="Rainerio Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rainerio19&show_icons=true&hide_border=true" />
-
-</details>
 
 <p align="right">
   <a href="https://badges.pufler.dev">
