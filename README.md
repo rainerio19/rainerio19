@@ -5,13 +5,6 @@ and graduate student in information technology.
 ### ⚡ My focus:
 I love working with technologies Front-End, and soon i will be becoming a FullStack Developer.
 
-### 🙋‍♂️ About me
-I have been working a lot with React, Vue and Node! <br/>
-I invite you to take a brief look at my projects. <br/> <br/>
-
-### 🌱 I’m currently learning
-Typescript, Javascript advanced, and more Vue 3.
-
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/rainerio-filho/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
