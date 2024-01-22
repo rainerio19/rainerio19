@@ -6,7 +6,8 @@ Hi there, I'm Rainerio 👋
 I'm a Brazilian developer
 and graduate student in information technology. 
     <br>
-    I love working with technologies Front-End, and soon i will be becoming a FullStack Developer.
+   <br>
+    FullStack Developer.
     <h4/>
 </div>   
 <p align="center">
